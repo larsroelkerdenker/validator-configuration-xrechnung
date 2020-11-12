@@ -1,8 +1,8 @@
 # Validator Configuration for XRechnung
 
-[Validator](https://github.com/itplr-kosit/validator) configuration for Universal Business Language (UBL) and UN/CEFACT Invoice and CreditNote documents against EN16931:2017 and the German [Core Invoice Usage Specification (CIUS) XRechnung and XRechnung Extension](https://www.xoev.de/die_standards/xrechnung-14741).
+[Validator](https://github.com/itplr-kosit/validator) configuration for Universal Business Language (UBL) and UN/CEFACT Invoice and CreditNote documents against EN16931:2017 and the German [Core Invoice Usage Specification (CIUS) XRechnung and XRechnung Extension](https://www.xoev.de/de/xrechnung).
 
-It contains all necessary XML Schema and Schematron rules to validate UBL and CII invoice XML documents for conformity with [CIUS XRechnung](https://www.xoev.de/die_standards/xrechnung-14741).
+It contains all necessary XML Schema and Schematron rules to validate UBL and CII invoice XML documents for conformity with [CIUS XRechnung](https://www.xoev.de/de/xrechnung).
 
 In particular:
 
